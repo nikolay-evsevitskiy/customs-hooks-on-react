@@ -1,9 +1,12 @@
 import './App.css';
 import Inputs from "./components/Inputs";
+import Hover from "./components/Hover";
 
 function App() {
     return <>
-        <Inputs/>
+        <Hover/>
+        {/*<Inputs/>*/}
+
     </>
 }
 
