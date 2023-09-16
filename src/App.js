@@ -1,10 +1,12 @@
 import './App.css';
 import Inputs from "./components/Inputs";
 import Hover from "./components/Hover";
+import List from "./components/List";
 
 function App() {
     return <>
-        <Hover/>
+        <List/>
+        {/*<Hover/>*/}
         {/*<Inputs/>*/}
 
     </>
